@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 💬 Ask me about **Java, Python, Apex**
+- 💬 Ask me about **Javascript, C/C++, Java, Python, Apex**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
